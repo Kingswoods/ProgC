@@ -1,0 +1,12 @@
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\MailServer.exe.config
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\MailServer.exe
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\MailServer.pdb
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\Google.Protobuf.dll
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\MySql.Data.dll
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\Google.Protobuf.xml
+c:\users\gregersen\source\repos\MailServer\MailServer\bin\Debug\MySql.Data.xml
+c:\users\gregersen\source\repos\MailServer\MailServer\obj\Debug\MailServer.csprojResolveAssemblyReference.cache
+c:\users\gregersen\source\repos\MailServer\MailServer\obj\Debug\MailServer.csproj.CoreCompileInputs.cache
+c:\users\gregersen\source\repos\MailServer\MailServer\obj\Debug\MailServer.csproj.CopyComplete
+c:\users\gregersen\source\repos\MailServer\MailServer\obj\Debug\MailServer.exe
+c:\users\gregersen\source\repos\MailServer\MailServer\obj\Debug\MailServer.pdb
